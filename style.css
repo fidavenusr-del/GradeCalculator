@@ -1,0 +1,28 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  background:white;
+  margin-top: 100px;
+}
+
+h1 {
+  color: #bc086b;
+}
+
+p {
+  font-size: large;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  background: rgb(3, 187, 25);
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #63abe3;
+}
